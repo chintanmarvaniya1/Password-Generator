@@ -9,7 +9,7 @@ function Header() {
                 <div className='flex justify-between h-16'>
                     <div className='flex-shrink-0 flex items-center'>
                         <img className="hidden lg:block h-14 w-auto" src={logo} alt="Logo" />
-                        <span className="font-quicksand font-bold text-3xl ml-2">Password Generator</span>
+                        <span className="font-quicksand font-bold text-3xl ml-2">Currency Converter</span>
                     </div>
                     <div className="flex flex-shrink-1 items-center">
                         <SocialIcon style={{ marginRight: '10px' }} network="linkedin" bgColor="#13192F" />
